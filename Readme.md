@@ -1,6 +1,6 @@
 # Integrating a KRaft Kafka Cluster with Schema Registry
 
-![KRaft Mode](https://github.com/razvantechjourney/resources/blob/master/kraft/Kraft%20Mode%20zk%20logo.png?raw=true)
+![KRaft Mode](https://github.com/razvantechjourney/kraft/blob/master/readme%20resources/Kraft%20Mode%20zk%20logo.png)
 
 Welcome to the integration guide for setting up a KRaft Kafka Cluster and integrating it with Schema Registry !
 
